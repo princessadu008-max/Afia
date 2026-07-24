@@ -1,0 +1,11 @@
+## Example Usage: Visual Assembly Inspection
+
+**Input Image:** `enable_hand_assembly.jpg` (3D Printed e-NABLE Design)  
+**User Prompt:** "Examine this 3D-printed prosthetic hand assembly. What key mechanical components are visible, and what should I check before attaching the tension cables?"
+
+**AI Output:**
+1. **Identified Components:** 3D-printed gauntlet, palm structure, articulated finger segments, and routing channels for elastic/tension lines.
+2. **Pre-Assembly Checklist:**
+   - Ensure all pin hinges are sanded smooth to prevent friction in finger joints.
+   - Verify that tension cable channels are clear of 3D printing stringing or support material.
+   - Test mechanical flexibility manually before securing the wrist tension pins.
